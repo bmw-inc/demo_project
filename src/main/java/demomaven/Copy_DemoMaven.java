@@ -15,13 +15,22 @@ public class Copy_DemoMaven {
 		return k;
 	}
 	
-	public boolean unusedMethod2(boolean k) {
-		k = true;
+	public boolean unusedMethod2(boolean t) {
+		t = true;
 		
         String foo = null;
         System.out.println(foo.length());
         
-		return k;
+		return t;
+	}
+	
+	public boolean unusedMethod3(boolean j) {
+		j = true;
+		
+        String foo = null;
+        System.out.println(foo.length());
+        
+		return j;
 	}
 	
 	public boolean unusedLocalVar(boolean i) {
