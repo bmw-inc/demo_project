@@ -3,7 +3,7 @@ package demomaven;
 public class Copy_DemoMaven {
 
 	public static void main(String[] args) {
-		// int k; // UnusedLocalVariale code issue
+		int k;
 	}
 	
 	public boolean unusedMethod(boolean k) {
@@ -25,7 +25,7 @@ public class Copy_DemoMaven {
 	}
 	
 	public boolean unusedLocalVar(boolean i) {
-		int i;
+		int h;
 	}
 
 }
