@@ -3,7 +3,7 @@ package demomaven;
 public class Copy_DemoMaven {
 
     public static void main(String[] args) {
-        // int i;
+        int i;
     }
 
     public boolean unusedMethod(boolean x) {
@@ -22,6 +22,10 @@ public class Copy_DemoMaven {
         System.out.println(foo.length());
 
         return y;
+    }
+    
+    public boolean unusedMethod3() {
+        int z;
     }
 
 }
