@@ -23,5 +23,9 @@ public class Copy_DemoMaven {
         
 		return k;
 	}
+	
+	public boolean unusedLocalVar(boolean i) {
+		int i;
+	}
 
 }
