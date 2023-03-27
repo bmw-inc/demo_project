@@ -1,6 +1,6 @@
 package demomaven;
 
-public class DemoMaven {
+public class DemoMavenTest {
 
 	public static void main(String[] args) {
 		int k;
