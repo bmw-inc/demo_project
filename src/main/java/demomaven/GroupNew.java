@@ -1,6 +1,6 @@
 package demomaven;
 
-public class GroupTest {
+public class GroupNew {
 
 	public static void main(String[] args) {
 		int k;
