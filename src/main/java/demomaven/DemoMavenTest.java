@@ -17,5 +17,9 @@ public class DemoMaven {
 		boolean p=true;
 		return p;
 	}
+	
+	public boolean unusedMethod3() {
+	    int z;
+	}
 
 }
