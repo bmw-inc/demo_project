@@ -12,7 +12,7 @@ public class New_DemoMaven {
 	}
 	
 	public boolean unusedMethod2() {
-	    int z;
+	    // int z;
 	}
 
 }
