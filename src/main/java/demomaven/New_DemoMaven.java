@@ -8,17 +8,10 @@ public class New_DemoMaven {
 	
 	public boolean unusedMethod(boolean k) {
 		k = true;
-		
-        
 		return k;
 	}
 	
-	public boolean unusedMethod2(boolean k) {
-		boolean p=true;
-		return p;
-	}
-	
-	public boolean unusedMethod3() {
+	public boolean unusedMethod2() {
 	    int z;
 	}
 
