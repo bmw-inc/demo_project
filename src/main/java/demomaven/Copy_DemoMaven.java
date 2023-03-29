@@ -25,7 +25,7 @@ public class Copy_DemoMaven {
     }
     
     public boolean unusedMethod3() {
-        int z;
+        // int z;
     }
     
     public boolean unusedMethod4() {
