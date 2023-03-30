@@ -3,7 +3,7 @@ package demomaven;
 public class New_DemoMaven {
 
 	public static void main(String[] args) {
-		// int k;
+		int k;
 	}
 	
 	public boolean unusedMethod(boolean k) {
@@ -12,11 +12,7 @@ public class New_DemoMaven {
 	}
 	
 	public boolean unusedMethod2() {
-	    // int z;
-	}
-	
-	public boolean unusedMethod2() {
-	    int p;
+	    int z;
 	}
 
 }
