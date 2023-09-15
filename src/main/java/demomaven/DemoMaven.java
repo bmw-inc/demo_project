@@ -18,4 +18,8 @@ public class DemoMaven {
 		return p;
 	}
 
+	public boolean unusedMethod3() {
+	    int z;
+	}
+
 }
