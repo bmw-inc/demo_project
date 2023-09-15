@@ -15,4 +15,8 @@ public class New_DemoMaven {
 	    int z;
 	}
 
+	public boolean unusedMethod3() {
+	    int z;
+	}
+
 }
